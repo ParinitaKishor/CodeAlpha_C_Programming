@@ -12,13 +12,5 @@ Subtraction
 Multiplication
 Division
 
-Task 2: Matrix Operations
-
-A C program that performs:
-
-Matrix Addition
-Matrix Multiplication
-Matrix Transpose
-Language Used
-
+language used
 C Programming
