@@ -5,12 +5,18 @@ This repository contains the tasks completed for the CodeAlpha C Programming Int
 Tasks Completed
 Task 1: Calculator Program
 
-A simple calculator developed in C using switch-case statements to perform:
+# Calculator Program
 
-Addition
-Subtraction
-Multiplication
-Division
+A simple C program that performs:
 
-language used
-C Programming
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+Concepts Used:
+- Switch Case
+- User Input
+- Arithmetic Operations
+
+Language: C
